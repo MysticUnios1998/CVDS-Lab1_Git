@@ -1,7 +1,7 @@
 ----------------------- feerratas.txt -------------------
 FE DE ERRATAS
 
-* El término de la página por lo general es impreciso.
+* El término de la página 15, por lo general, es impreciso.
 
 <<<<<<< HEAD
 =======
