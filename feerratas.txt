@@ -1,6 +1,6 @@
 ----------------------- feerratas.txt -------------------
-FE DE RATAS
+FE DE ERRATAS
 
 
-* El término de la pagina (por lo general) 15 es impreciso.
+* El término de la página (por lo general)  es impreciso.
 ---------------------------------------------------------
