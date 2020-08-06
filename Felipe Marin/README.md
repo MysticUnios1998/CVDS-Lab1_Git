@@ -1,9 +1,11 @@
-# Felipe Marin
+# 2da Parte Lab1
+
+## Nickolas Felipe Marin Naranjo
 
 ## Mis Pasiones
 
 
-Soy Estudiante estudiante de *ing de sistemas* pero mi verdadera pasión es la **música**. Actualmente los\
+Soy Estudiante de *ing de sistemas* pero mi verdadera pasión es la **música**. Actualmente los\
 instrumentos que toco son: 
 - Bajo
 - Guitarra
@@ -31,3 +33,14 @@ for (i=0; i<5; i++) {
   console.log(i);
 }
 ```
+
+
+# 3ra Parte Lab1
+
+## Main
+
+![](./Photos/Main.png)
+
+## Remote
+
+![](.Photos/Remote.png)
