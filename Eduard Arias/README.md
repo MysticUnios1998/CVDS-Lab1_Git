@@ -53,11 +53,10 @@ Tengo un gran manejo en lenguajes de programación, tales como:
 
 **Mi primer Código**
 
-´´´
+```
 var = input()
-
 print("Hello,", var)
-´´´
+```
 
 **Mi primer algoritmo de ordenamiento**
 
