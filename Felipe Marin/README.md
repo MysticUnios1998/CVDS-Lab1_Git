@@ -43,4 +43,4 @@ for (i=0; i<5; i++) {
 
 ## Remote
 
-![](.Photos/Remote.png)
+![](./Photos/Remote.png)
