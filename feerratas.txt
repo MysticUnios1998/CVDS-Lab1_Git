@@ -3,4 +3,8 @@ FE DE ERRATAS
 
 * El término de la página por lo general es impreciso.
 
+<<<<<<< HEAD
+=======
+* El término de la página 15, por lo general  es impreciso.
+>>>>>>> 85a39a5... ortografia areglada2
 ---------------------------------------------------------
