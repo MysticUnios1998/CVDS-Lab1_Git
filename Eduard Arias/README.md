@@ -1,4 +1,4 @@
-# EDUARD ARIAS
+# **EDUARD ARIAS**
 
 ## Vida Personal
 
@@ -70,5 +70,21 @@ def selectionSort(arr):
 		arr[i], arr[minIndex] = arr[minIndex], arr[i]
 	return arr
 ```
+
+
+
+# **LABORATORIO PARTE 3 - Learn Git Branching**
+
+## Main
+![](./Fotos/Main.PNG)
+
+
+## Remote
+![](./Fotos/Remote.PNG)
+
+
+
+
+
 
 
