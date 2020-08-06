@@ -55,6 +55,7 @@ Tengo un gran manejo en lenguajes de programación, tales como:
 
 ´´´
 var = input()
+
 print("Hello,", var)
 ´´´
 
