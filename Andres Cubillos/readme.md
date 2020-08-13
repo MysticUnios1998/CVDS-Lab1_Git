@@ -45,9 +45,10 @@ En octavo semestre
 Mi codigo favorito:
 `print("Hello World!")`
 
-##Tutorial [Learngitbranching](https://learngitbranching.js.org/)
+## Tutorial [Learngitbranching](https://learngitbranching.js.org/)
 
 Completo
+Andres Felipe Cubillos Hurtado, 2155434
 
 ![](https://scontent-bog1-1.xx.fbcdn.net/v/t1.15752-9/117179393_675188916411837_7483177014318395697_n.jpg?_nc_cat=111&_nc_sid=ae9488&_nc_ohc=tZqJlQt0QcEAX9GDtU5&_nc_ht=scontent-bog1-1.xx&oh=12241e365ec294cbf0c18770e24e6097&oe=5F5AD155)
 
